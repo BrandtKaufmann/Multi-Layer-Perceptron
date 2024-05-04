@@ -1,5 +1,5 @@
 # Multi-Layer-Perceptron
-Create code to make and train an n-layer neural network from scratch
+Create code to make and train an N-layer neural network from scratch
 ## Part I
 Using the XOR gate truth table as the training set for the 2-layer-3-neuron network. Please use
 the notation in the lectures slides (“L-layer-NN”) to implement this neural network.
